@@ -25,6 +25,11 @@ Problem Set 5:
 
 - Generalized linear models
 
+Problem Set 6:
+
+- Laplace distribution and robust estimation of location
+- EM algorithm and robust regression
+
 ## Content Projects 
 
 1) Multivariate Testing 
