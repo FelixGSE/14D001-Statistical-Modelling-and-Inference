@@ -17,6 +17,10 @@ Problem Set 3:
 - MAP estimators
 - Prior estimation  
 
+Problem Set 4:
+
+- Applied regression problems
+
 Problem Set 5:
 
 - Generalized linear models
