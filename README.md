@@ -21,8 +21,8 @@ Problem Set 5:
 
 - Generalized linear models
 
-Content Projects 
+## Content Projects 
 
-- Multivariate Testing 
+1) Multivariate Testing 
 
-- Stochastic Gradient Descent 
+2) Stochastic Gradient Descent 
