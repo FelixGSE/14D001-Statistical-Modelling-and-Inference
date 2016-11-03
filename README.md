@@ -2,30 +2,30 @@
 
 ## Content Problem Sets 
 
-Problem Set 1:
+Problem set 1:
 
 - Hat matrix properties
 - SVD - Regression 
 
-Problem Set 2:
+Problem set 2:
 
 - Bayesian Regression 
 - Basis Functions 
 
-Problem Set 3:
+Problem set 3:
 
 - MAP estimators
 - Prior estimation  
 
-Problem Set 4:
+Problem set 4:
 
 - Applied regression problems
 
-Problem Set 5:
+Problem set 5:
 
 - Generalized linear models
 
-Problem Set 6:
+Problem set 6:
 
 - Laplace distribution and robust estimation of location
 - EM algorithm and robust regression
